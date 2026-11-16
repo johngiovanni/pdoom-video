@@ -75,6 +75,20 @@ bun scripts/render.ts video --scale 2 --samples auto --shutter 0.2 --x264 aq-mod
 - **Encoding:** the film grain is rendered per 4K pixel, which is expensive to encode: at the default CRF 16 the file runs at about 670 Mbit/s (13 GB for the song, 8× the 1080p file), `--crf 18` gives about 450 Mbit/s and `--crf 20` about 230 Mbit/s.
 - `--scale 2` works with every mode. `stills` then saves full-resolution PNGs, and `perf` measures 4K frame times. In the browser preview, add `&scale=2` to the URL.
 
+## A second song: "Faith Amid Doubt"
+
+The engine can play another song with its own data and edit: `?song=faith` in the preview, `--song faith` for `render.ts`.
+
+```sh
+cd app
+bun scripts/render.ts video --song faith --samples auto --shutter 0.2 --out ../out/faith.mp4
+```
+
+- `audio/faith.mp3`, `data/faith/lyrics.json`, `data/faith/audio.json` — the song and its timing data.
+- `app/src/timeline-faith.ts` and `app/src/scenes/faith-*.ts` — the edit and its five plates (before dawn, the cage, the valley, the crown, the downpour), in the same ink / bone / signal style.
+- `analysis/faith/` — how the timing data was made: Demucs stems, Whisper transcripts, a hand-corrected sheet (`lyrics_faith.txt`), MMS forced alignment (`build_lyrics.py`) and a generic beat/envelope analysis (`analyze_faith.py`). The lyrics were transcribed from the audio, not taken from the author's sheet, so some words may be wrong: fix them in `lyrics_faith.txt` and rebuild.
+- Without Google Chrome or a GPU (Linux, CI), set `PDOOM_CHROME=/path/to/chromium PDOOM_ANGLE=swiftshader`.
+
 ## Regenerate the timing data
 
 The committed `data/*.json` files are all the renderer needs. Regenerating them needs the stems and intermediates, which are not in the repo:

@@ -1,0 +1,2966 @@
+{
+ "lines": [
+  {
+   "text": "When the shadows fall,",
+   "words": [
+    {
+     "w": "When",
+     "start": 24.5,
+     "end": 25.04
+    },
+    {
+     "w": "the",
+     "start": 25.16,
+     "end": 25.3
+    },
+    {
+     "w": "shadows",
+     "start": 25.37,
+     "end": 25.75
+    },
+    {
+     "w": "fall,",
+     "start": 25.79,
+     "end": 26.5
+    }
+   ],
+   "start": 24.5,
+   "end": 26.5
+  },
+  {
+   "text": "still I rise",
+   "words": [
+    {
+     "w": "still",
+     "start": 26.6,
+     "end": 29.2
+    },
+    {
+     "w": "I",
+     "start": 30.2,
+     "end": 30.45
+    },
+    {
+     "w": "rise",
+     "start": 30.5,
+     "end": 31.5
+    }
+   ],
+   "start": 26.6,
+   "end": 31.5
+  },
+  {
+   "text": "Still I rise",
+   "words": [
+    {
+     "w": "Still",
+     "start": 32.8,
+     "end": 35.0
+    },
+    {
+     "w": "I",
+     "start": 36.2,
+     "end": 36.45
+    },
+    {
+     "w": "rise",
+     "start": 36.5,
+     "end": 37.3
+    }
+   ],
+   "start": 32.8,
+   "end": 37.3
+  },
+  {
+   "text": "Dark nights, mind fighting demons in the silence",
+   "words": [
+    {
+     "w": "Dark",
+     "start": 50.722,
+     "end": 50.984,
+     "conf": 0.84
+    },
+    {
+     "w": "nights,",
+     "start": 51.084,
+     "end": 51.385,
+     "conf": 0.82
+    },
+    {
+     "w": "mind",
+     "start": 51.466,
+     "end": 51.787,
+     "conf": 0.44
+    },
+    {
+     "w": "fighting",
+     "start": 51.828,
+     "end": 52.169,
+     "conf": 0.74
+    },
+    {
+     "w": "demons",
+     "start": 52.25,
+     "end": 52.631,
+     "conf": 0.94
+    },
+    {
+     "w": "in",
+     "start": 52.672,
+     "end": 52.762,
+     "conf": 0.93
+    },
+    {
+     "w": "the",
+     "start": 52.772,
+     "end": 52.862,
+     "conf": 0.58
+    },
+    {
+     "w": "silence",
+     "start": 52.973,
+     "end": 54.118,
+     "conf": 0.52
+    }
+   ],
+   "start": 50.722,
+   "end": 54.118
+  },
+  {
+   "text": "Questioning the purpose, lost in the violence",
+   "words": [
+    {
+     "w": "Questioning",
+     "start": 53.983,
+     "end": 54.485,
+     "conf": 0.78
+    },
+    {
+     "w": "the",
+     "start": 54.485,
+     "end": 54.575,
+     "conf": 0.42
+    },
+    {
+     "w": "purpose,",
+     "start": 54.626,
+     "end": 55.148,
+     "conf": 0.79
+    },
+    {
+     "w": "lost",
+     "start": 55.59,
+     "end": 55.892,
+     "conf": 0.58
+    },
+    {
+     "w": "in",
+     "start": 55.932,
+     "end": 56.022,
+     "conf": 0.64
+    },
+    {
+     "w": "the",
+     "start": 56.032,
+     "end": 56.122,
+     "conf": 0.09
+    },
+    {
+     "w": "violence",
+     "start": 56.233,
+     "end": 57.539,
+     "conf": 0.53
+    }
+   ],
+   "start": 53.983,
+   "end": 57.539
+  },
+  {
+   "text": "Doubt creeping in like a thief in the night",
+   "words": [
+    {
+     "w": "Doubt",
+     "start": 57.143,
+     "end": 57.364,
+     "conf": 0.09
+    },
+    {
+     "w": "creeping",
+     "start": 57.405,
+     "end": 57.766,
+     "conf": 0.68
+    },
+    {
+     "w": "in",
+     "start": 57.927,
+     "end": 58.168,
+     "conf": 0.47
+    },
+    {
+     "w": "like",
+     "start": 58.229,
+     "end": 58.41,
+     "conf": 0.98
+    },
+    {
+     "w": "a",
+     "start": 58.43,
+     "end": 58.52,
+     "conf": 0.95
+    },
+    {
+     "w": "thief",
+     "start": 58.611,
+     "end": 58.852,
+     "conf": 0.47
+    },
+    {
+     "w": "in",
+     "start": 58.992,
+     "end": 59.082,
+     "conf": 0.66
+    },
+    {
+     "w": "the",
+     "start": 60.058,
+     "end": 60.219,
+     "conf": 0.75
+    },
+    {
+     "w": "night",
+     "start": 60.299,
+     "end": 60.52,
+     "conf": 0.06
+    }
+   ],
+   "start": 57.143,
+   "end": 60.52
+  },
+  {
+   "text": "Heart heavy, soul weary, can't see the light",
+   "words": [
+    {
+     "w": "Heart",
+     "start": 59.842,
+     "end": 60.063,
+     "conf": 0.75
+    },
+    {
+     "w": "heavy,",
+     "start": 60.124,
+     "end": 60.365,
+     "conf": 0.87
+    },
+    {
+     "w": "soul",
+     "start": 60.525,
+     "end": 60.807,
+     "conf": 0.5
+    },
+    {
+     "w": "weary,",
+     "start": 60.887,
+     "end": 61.229,
+     "conf": 0.9
+    },
+    {
+     "w": "can't",
+     "start": 61.811,
+     "end": 62.052,
+     "conf": 0.59
+    },
+    {
+     "w": "see",
+     "start": 62.113,
+     "end": 62.273,
+     "conf": 0.96
+    },
+    {
+     "w": "the",
+     "start": 62.293,
+     "end": 62.383,
+     "conf": 0.03
+    },
+    {
+     "w": "light",
+     "start": 62.494,
+     "end": 62.816,
+     "conf": 0.81
+    }
+   ],
+   "start": 59.842,
+   "end": 62.816
+  },
+  {
+   "text": "Prayers feel like echoes bounced off the ceiling",
+   "words": [
+    {
+     "w": "Prayers",
+     "start": 63.403,
+     "end": 63.724,
+     "conf": 0.54
+    },
+    {
+     "w": "feel",
+     "start": 63.785,
+     "end": 63.885,
+     "conf": 0.27
+    },
+    {
+     "w": "like",
+     "start": 63.925,
+     "end": 64.126,
+     "conf": 0.95
+    },
+    {
+     "w": "echoes",
+     "start": 64.207,
+     "end": 64.689,
+     "conf": 0.44
+    },
+    {
+     "w": "bounced",
+     "start": 65.011,
+     "end": 65.332,
+     "conf": 0.27
+    },
+    {
+     "w": "off",
+     "start": 65.332,
+     "end": 65.473,
+     "conf": 0.37
+    },
+    {
+     "w": "the",
+     "start": 65.513,
+     "end": 65.603,
+     "conf": 0.24
+    },
+    {
+     "w": "ceiling",
+     "start": 65.734,
+     "end": 66.94,
+     "conf": 0.25
+    }
+   ],
+   "start": 63.403,
+   "end": 66.94
+  },
+  {
+   "text": "Is this a test or just a broken feeling?",
+   "words": [
+    {
+     "w": "Is",
+     "start": 66.644,
+     "end": 66.744,
+     "conf": 0.64
+    },
+    {
+     "w": "this",
+     "start": 66.804,
+     "end": 66.985,
+     "conf": 0.39
+    },
+    {
+     "w": "a",
+     "start": 67.046,
+     "end": 67.136,
+     "conf": 0.6
+    },
+    {
+     "w": "test",
+     "start": 67.206,
+     "end": 67.568,
+     "conf": 0.75
+    },
+    {
+     "w": "or",
+     "start": 67.869,
+     "end": 67.959,
+     "conf": 0.27
+    },
+    {
+     "w": "just",
+     "start": 67.99,
+     "end": 68.251,
+     "conf": 0.54
+    },
+    {
+     "w": "a",
+     "start": 68.291,
+     "end": 68.381,
+     "conf": 0.77
+    },
+    {
+     "w": "broken",
+     "start": 68.392,
+     "end": 68.753,
+     "conf": 0.81
+    },
+    {
+     "w": "feeling?",
+     "start": 68.854,
+     "end": 69.698,
+     "conf": 0.53
+    }
+   ],
+   "start": 66.644,
+   "end": 69.698
+  },
+  {
+   "text": "Scars on my spirit, battles unseen",
+   "words": [
+    {
+     "w": "Scars",
+     "start": 69.562,
+     "end": 69.964,
+     "conf": 0.48
+    },
+    {
+     "w": "on",
+     "start": 70.045,
+     "end": 70.135,
+     "conf": 0.54
+    },
+    {
+     "w": "my",
+     "start": 70.145,
+     "end": 70.266,
+     "conf": 0.82
+    },
+    {
+     "w": "spirit,",
+     "start": 70.326,
+     "end": 70.828,
+     "conf": 0.92
+    },
+    {
+     "w": "battles",
+     "start": 71.271,
+     "end": 71.652,
+     "conf": 0.31
+    },
+    {
+     "w": "unseen",
+     "start": 71.733,
+     "end": 73.059,
+     "conf": 0.59
+    }
+   ],
+   "start": 69.562,
+   "end": 73.059
+  },
+  {
+   "text": "But even in the chaos I know what it means",
+   "words": [
+    {
+     "w": "But",
+     "start": 72.583,
+     "end": 72.744,
+     "conf": 0.89
+    },
+    {
+     "w": "even",
+     "start": 72.804,
+     "end": 73.085,
+     "conf": 0.87
+    },
+    {
+     "w": "in",
+     "start": 73.165,
+     "end": 73.255,
+     "conf": 0.93
+    },
+    {
+     "w": "the",
+     "start": 73.286,
+     "end": 73.376,
+     "conf": 0.63
+    },
+    {
+     "w": "chaos",
+     "start": 73.467,
+     "end": 74.009,
+     "conf": 0.38
+    },
+    {
+     "w": "I",
+     "start": 74.25,
+     "end": 74.34,
+     "conf": 0.02
+    },
+    {
+     "w": "know",
+     "start": 74.411,
+     "end": 74.592,
+     "conf": 0.61
+    },
+    {
+     "w": "what",
+     "start": 74.692,
+     "end": 74.873,
+     "conf": 0.66
+    },
+    {
+     "w": "it",
+     "start": 74.913,
+     "end": 75.003,
+     "conf": 0.83
+    },
+    {
+     "w": "means",
+     "start": 75.094,
+     "end": 75.838,
+     "conf": 0.79
+    }
+   ],
+   "start": 72.583,
+   "end": 75.838
+  },
+  {
+   "text": "The struggle ain't the end, just the soil where seeds grow",
+   "words": [
+    {
+     "w": "The",
+     "start": 75.663,
+     "end": 75.753,
+     "conf": 0.13
+    },
+    {
+     "w": "struggle",
+     "start": 75.803,
+     "end": 76.185,
+     "conf": 0.74
+    },
+    {
+     "w": "ain't",
+     "start": 76.225,
+     "end": 76.446,
+     "conf": 0.29
+    },
+    {
+     "w": "the",
+     "start": 76.506,
+     "end": 76.748,
+     "conf": 0.02
+    },
+    {
+     "w": "end,",
+     "start": 76.848,
+     "end": 76.968,
+     "conf": 0.32
+    },
+    {
+     "w": "just",
+     "start": 77.009,
+     "end": 77.189,
+     "conf": 0.56
+    },
+    {
+     "w": "the",
+     "start": 77.21,
+     "end": 77.3,
+     "conf": 0.13
+    },
+    {
+     "w": "soil",
+     "start": 77.39,
+     "end": 77.732,
+     "conf": 0.54
+    },
+    {
+     "w": "where",
+     "start": 77.792,
+     "end": 77.953,
+     "conf": 0.66
+    },
+    {
+     "w": "seeds",
+     "start": 78.033,
+     "end": 78.354,
+     "conf": 0.51
+    },
+    {
+     "w": "grow",
+     "start": 78.415,
+     "end": 78.676,
+     "conf": 0.81
+    }
+   ],
+   "start": 75.663,
+   "end": 78.676
+  },
+  {
+   "text": "Faith ain't no weak flex, it's the strength I don't show",
+   "words": [
+    {
+     "w": "Faith",
+     "start": 79.164,
+     "end": 79.405,
+     "conf": 0.73
+    },
+    {
+     "w": "ain't",
+     "start": 79.485,
+     "end": 79.626,
+     "conf": 0.16
+    },
+    {
+     "w": "no",
+     "start": 79.626,
+     "end": 79.716,
+     "conf": 0.91
+    },
+    {
+     "w": "weak",
+     "start": 79.807,
+     "end": 79.988,
+     "conf": 0.76
+    },
+    {
+     "w": "flex,",
+     "start": 80.068,
+     "end": 80.289,
+     "conf": 0.85
+    },
+    {
+     "w": "it's",
+     "start": 80.369,
+     "end": 80.459,
+     "conf": 0.3
+    },
+    {
+     "w": "the",
+     "start": 80.47,
+     "end": 80.56,
+     "conf": 0.06
+    },
+    {
+     "w": "strength",
+     "start": 80.59,
+     "end": 80.912,
+     "conf": 0.75
+    },
+    {
+     "w": "I",
+     "start": 80.992,
+     "end": 81.082,
+     "conf": 0.0
+    },
+    {
+     "w": "don't",
+     "start": 81.193,
+     "end": 81.414,
+     "conf": 0.63
+    },
+    {
+     "w": "show",
+     "start": 81.515,
+     "end": 82.017,
+     "conf": 0.96
+    }
+   ],
+   "start": 79.164,
+   "end": 82.017
+  },
+  {
+   "text": "So I clench my fists, whisper grace in the rage",
+   "words": [
+    {
+     "w": "So",
+     "start": 81.501,
+     "end": 81.642,
+     "conf": 0.95
+    },
+    {
+     "w": "I",
+     "start": 82.044,
+     "end": 82.134,
+     "conf": 0.0
+    },
+    {
+     "w": "clench",
+     "start": 82.184,
+     "end": 82.486,
+     "conf": 0.64
+    },
+    {
+     "w": "my",
+     "start": 82.546,
+     "end": 82.686,
+     "conf": 0.81
+    },
+    {
+     "w": "fists,",
+     "start": 82.827,
+     "end": 83.108,
+     "conf": 0.48
+    },
+    {
+     "w": "whisper",
+     "start": 83.43,
+     "end": 83.731,
+     "conf": 0.51
+    },
+    {
+     "w": "grace",
+     "start": 83.791,
+     "end": 84.093,
+     "conf": 0.59
+    },
+    {
+     "w": "in",
+     "start": 84.133,
+     "end": 84.213,
+     "conf": 0.6
+    },
+    {
+     "w": "the",
+     "start": 84.213,
+     "end": 84.303,
+     "conf": 0.4
+    },
+    {
+     "w": "rage",
+     "start": 84.414,
+     "end": 84.896,
+     "conf": 0.86
+    }
+   ],
+   "start": 81.501,
+   "end": 84.896
+  },
+  {
+   "text": "Turning the page when the world's in a cage",
+   "words": [
+    {
+     "w": "Turning",
+     "start": 85.403,
+     "end": 85.765,
+     "conf": 0.71
+    },
+    {
+     "w": "the",
+     "start": 85.765,
+     "end": 85.855,
+     "conf": 0.66
+    },
+    {
+     "w": "page",
+     "start": 85.926,
+     "end": 86.388,
+     "conf": 0.88
+    },
+    {
+     "w": "when",
+     "start": 86.589,
+     "end": 86.71,
+     "conf": 0.7
+    },
+    {
+     "w": "the",
+     "start": 86.75,
+     "end": 86.84,
+     "conf": 0.71
+    },
+    {
+     "w": "world's",
+     "start": 86.911,
+     "end": 87.192,
+     "conf": 0.78
+    },
+    {
+     "w": "in",
+     "start": 87.252,
+     "end": 87.342,
+     "conf": 0.4
+    },
+    {
+     "w": "a",
+     "start": 87.353,
+     "end": 87.443,
+     "conf": 0.68
+    },
+    {
+     "w": "cage",
+     "start": 87.493,
+     "end": 88.217,
+     "conf": 0.66
+    }
+   ],
+   "start": 85.403,
+   "end": 88.217
+  },
+  {
+   "text": "Yeah, I walk through the valley, shadows all around",
+   "words": [
+    {
+     "w": "Yeah,",
+     "start": 88.122,
+     "end": 88.323,
+     "conf": 0.23
+    },
+    {
+     "w": "I",
+     "start": 88.363,
+     "end": 88.453,
+     "conf": 0.0
+    },
+    {
+     "w": "walk",
+     "start": 88.504,
+     "end": 88.765,
+     "conf": 0.1
+    },
+    {
+     "w": "through",
+     "start": 88.886,
+     "end": 89.086,
+     "conf": 0.09
+    },
+    {
+     "w": "the",
+     "start": 89.107,
+     "end": 89.197,
+     "conf": 0.1
+    },
+    {
+     "w": "valley,",
+     "start": 89.247,
+     "end": 89.85,
+     "conf": 0.33
+    },
+    {
+     "w": "shadows",
+     "start": 90.051,
+     "end": 90.473,
+     "conf": 0.44
+    },
+    {
+     "w": "all",
+     "start": 90.573,
+     "end": 90.694,
+     "conf": 0.11
+    },
+    {
+     "w": "around",
+     "start": 90.734,
+     "end": 91.879,
+     "conf": 0.09
+    }
+   ],
+   "start": 88.122,
+   "end": 91.879
+  },
+  {
+   "text": "But my feet keep moving on holy ground",
+   "words": [
+    {
+     "w": "But",
+     "start": 90.921,
+     "end": 91.263,
+     "conf": 0.0
+    },
+    {
+     "w": "my",
+     "start": 91.423,
+     "end": 91.513,
+     "conf": 0.37
+    },
+    {
+     "w": "feet",
+     "start": 91.624,
+     "end": 91.885,
+     "conf": 0.4
+    },
+    {
+     "w": "keep",
+     "start": 92.046,
+     "end": 92.307,
+     "conf": 0.45
+    },
+    {
+     "w": "moving",
+     "start": 92.448,
+     "end": 92.87,
+     "conf": 0.46
+    },
+    {
+     "w": "on",
+     "start": 92.91,
+     "end": 93.091,
+     "conf": 0.46
+    },
+    {
+     "w": "holy",
+     "start": 93.211,
+     "end": 93.874,
+     "conf": 0.41
+    },
+    {
+     "w": "ground",
+     "start": 93.994,
+     "end": 94.396,
+     "conf": 0.21
+    }
+   ],
+   "start": 90.921,
+   "end": 94.396
+  },
+  {
+   "text": "When the lies scream loud, I won't back down",
+   "words": [
+    {
+     "w": "When",
+     "start": 94.443,
+     "end": 94.584,
+     "conf": 0.53
+    },
+    {
+     "w": "the",
+     "start": 94.624,
+     "end": 94.714,
+     "conf": 0.66
+    },
+    {
+     "w": "lies",
+     "start": 94.825,
+     "end": 95.066,
+     "conf": 0.29
+    },
+    {
+     "w": "scream",
+     "start": 95.106,
+     "end": 95.487,
+     "conf": 0.58
+    },
+    {
+     "w": "loud,",
+     "start": 95.608,
+     "end": 96.05,
+     "conf": 0.61
+    },
+    {
+     "w": "I",
+     "start": 96.11,
+     "end": 96.2,
+     "conf": 0.01
+    },
+    {
+     "w": "won't",
+     "start": 96.391,
+     "end": 96.632,
+     "conf": 0.22
+    },
+    {
+     "w": "back",
+     "start": 96.773,
+     "end": 97.094,
+     "conf": 0.51
+    },
+    {
+     "w": "down",
+     "start": 97.194,
+     "end": 97.596,
+     "conf": 0.71
+    }
+   ],
+   "start": 94.443,
+   "end": 97.596
+  },
+  {
+   "text": "'Cause doubt can't drown out this faith I found",
+   "words": [
+    {
+     "w": "'Cause",
+     "start": 97.0,
+     "end": 97.924,
+     "conf": 0.15
+    },
+    {
+     "w": "doubt",
+     "start": 97.964,
+     "end": 98.286,
+     "conf": 0.27
+    },
+    {
+     "w": "can't",
+     "start": 98.346,
+     "end": 98.728,
+     "conf": 0.32
+    },
+    {
+     "w": "drown",
+     "start": 98.728,
+     "end": 99.17,
+     "conf": 0.45
+    },
+    {
+     "w": "out",
+     "start": 99.23,
+     "end": 99.33,
+     "conf": 0.14
+    },
+    {
+     "w": "this",
+     "start": 99.35,
+     "end": 99.511,
+     "conf": 0.49
+    },
+    {
+     "w": "faith",
+     "start": 99.571,
+     "end": 99.993,
+     "conf": 0.4
+    },
+    {
+     "w": "I",
+     "start": 100.053,
+     "end": 100.143,
+     "conf": 0.11
+    },
+    {
+     "w": "found",
+     "start": 100.295,
+     "end": 100.977,
+     "conf": 0.24
+    }
+   ],
+   "start": 97.0,
+   "end": 100.977
+  },
+  {
+   "text": "From the ashes I rise, no more broken chains",
+   "words": [
+    {
+     "w": "From",
+     "start": 100.743,
+     "end": 100.904,
+     "conf": 0.55
+    },
+    {
+     "w": "the",
+     "start": 100.944,
+     "end": 101.034,
+     "conf": 0.12
+    },
+    {
+     "w": "ashes",
+     "start": 101.225,
+     "end": 101.707,
+     "conf": 0.41
+    },
+    {
+     "w": "I",
+     "start": 101.808,
+     "end": 101.898,
+     "conf": 0.02
+    },
+    {
+     "w": "rise,",
+     "start": 101.948,
+     "end": 102.31,
+     "conf": 0.07
+    },
+    {
+     "w": "no",
+     "start": 102.511,
+     "end": 102.601,
+     "conf": 0.66
+    },
+    {
+     "w": "more",
+     "start": 102.731,
+     "end": 102.993,
+     "conf": 0.43
+    },
+    {
+     "w": "broken",
+     "start": 103.073,
+     "end": 103.394,
+     "conf": 0.92
+    },
+    {
+     "w": "chains",
+     "start": 103.454,
+     "end": 103.876,
+     "conf": 0.48
+    }
+   ],
+   "start": 100.743,
+   "end": 103.876
+  },
+  {
+   "text": "Your love's the anchor in hurricane waves",
+   "words": [
+    {
+     "w": "Your",
+     "start": 104.305,
+     "end": 104.506,
+     "conf": 0.47
+    },
+    {
+     "w": "love's",
+     "start": 104.586,
+     "end": 104.927,
+     "conf": 0.19
+    },
+    {
+     "w": "the",
+     "start": 104.927,
+     "end": 105.017,
+     "conf": 0.43
+    },
+    {
+     "w": "anchor",
+     "start": 105.168,
+     "end": 105.49,
+     "conf": 0.29
+    },
+    {
+     "w": "in",
+     "start": 105.731,
+     "end": 105.821,
+     "conf": 0.73
+    },
+    {
+     "w": "hurricane",
+     "start": 105.891,
+     "end": 106.655,
+     "conf": 0.33
+    },
+    {
+     "w": "waves",
+     "start": 106.695,
+     "end": 107.88,
+     "conf": 0.32
+    }
+   ],
+   "start": 104.305,
+   "end": 107.88
+  },
+  {
+   "text": "Hallelujah, I'm standing my ground",
+   "words": [
+    {
+     "w": "Hallelujah,",
+     "start": 106.4,
+     "end": 108.007,
+     "conf": 0.33
+    },
+    {
+     "w": "I'm",
+     "start": 108.83,
+     "end": 108.92,
+     "conf": 0.21
+    },
+    {
+     "w": "standing",
+     "start": 108.951,
+     "end": 109.473,
+     "conf": 0.54
+    },
+    {
+     "w": "my",
+     "start": 109.533,
+     "end": 109.694,
+     "conf": 0.48
+    },
+    {
+     "w": "ground",
+     "start": 109.774,
+     "end": 110.899,
+     "conf": 0.19
+    }
+   ],
+   "start": 106.4,
+   "end": 110.899
+  },
+  {
+   "text": "Faith amid doubt, where the victory's crowned",
+   "words": [
+    {
+     "w": "Faith",
+     "start": 110.564,
+     "end": 110.926,
+     "conf": 0.24
+    },
+    {
+     "w": "amid",
+     "start": 110.946,
+     "end": 111.328,
+     "conf": 0.28
+    },
+    {
+     "w": "doubt,",
+     "start": 111.388,
+     "end": 111.75,
+     "conf": 0.29
+    },
+    {
+     "w": "where",
+     "start": 111.971,
+     "end": 112.071,
+     "conf": 0.31
+    },
+    {
+     "w": "the",
+     "start": 112.071,
+     "end": 112.161,
+     "conf": 0.35
+    },
+    {
+     "w": "victory's",
+     "start": 112.192,
+     "end": 112.895,
+     "conf": 0.55
+    },
+    {
+     "w": "crowned",
+     "start": 112.935,
+     "end": 113.658,
+     "conf": 0.23
+    }
+   ],
+   "start": 110.564,
+   "end": 113.658
+  },
+  {
+   "text": "Devil's whisper: \"You ain't worth the grace\"",
+   "words": [
+    {
+     "w": "Devil's",
+     "start": 119.904,
+     "end": 120.245,
+     "conf": 0.45
+    },
+    {
+     "w": "whisper:",
+     "start": 120.326,
+     "end": 120.728,
+     "conf": 0.6
+    },
+    {
+     "w": "\"You",
+     "start": 121.793,
+     "end": 121.894,
+     "conf": 0.97
+    },
+    {
+     "w": "ain't",
+     "start": 121.934,
+     "end": 122.095,
+     "conf": 0.2
+    },
+    {
+     "w": "worth",
+     "start": 122.115,
+     "end": 122.316,
+     "conf": 0.91
+    },
+    {
+     "w": "the",
+     "start": 122.336,
+     "end": 122.426,
+     "conf": 0.69
+    },
+    {
+     "w": "grace\"",
+     "start": 122.477,
+     "end": 122.919,
+     "conf": 1.0
+    }
+   ],
+   "start": 119.904,
+   "end": 122.919
+  },
+  {
+   "text": "Trials hit hard, can't see Your face",
+   "words": [
+    {
+     "w": "Trials",
+     "start": 122.3,
+     "end": 123.807,
+     "conf": 0.5
+    },
+    {
+     "w": "hit",
+     "start": 123.867,
+     "end": 124.048,
+     "conf": 0.49
+    },
+    {
+     "w": "hard,",
+     "start": 124.108,
+     "end": 124.449,
+     "conf": 0.46
+    },
+    {
+     "w": "can't",
+     "start": 124.992,
+     "end": 125.193,
+     "conf": 0.54
+    },
+    {
+     "w": "see",
+     "start": 125.273,
+     "end": 125.414,
+     "conf": 0.95
+    },
+    {
+     "w": "Your",
+     "start": 125.434,
+     "end": 125.554,
+     "conf": 0.79
+    },
+    {
+     "w": "face",
+     "start": 125.635,
+     "end": 125.996,
+     "conf": 0.95
+    }
+   ],
+   "start": 122.3,
+   "end": 125.996
+  },
+  {
+   "text": "Bank account empty, relationships torn",
+   "words": [
+    {
+     "w": "Bank",
+     "start": 126.484,
+     "end": 126.664,
+     "conf": 0.89
+    },
+    {
+     "w": "account",
+     "start": 126.725,
+     "end": 127.127,
+     "conf": 0.55
+    },
+    {
+     "w": "empty,",
+     "start": 127.267,
+     "end": 127.529,
+     "conf": 0.85
+    },
+    {
+     "w": "relationships",
+     "start": 127.85,
+     "end": 128.654,
+     "conf": 0.74
+    },
+    {
+     "w": "torn",
+     "start": 128.755,
+     "end": 129.257,
+     "conf": 0.32
+    }
+   ],
+   "start": 126.484,
+   "end": 129.257
+  },
+  {
+   "text": "Wearing my pain like a crown of thorns",
+   "words": [
+    {
+     "w": "Wearing",
+     "start": 128.46,
+     "end": 129.966,
+     "conf": 0.05
+    },
+    {
+     "w": "my",
+     "start": 130.047,
+     "end": 130.228,
+     "conf": 0.45
+    },
+    {
+     "w": "pain",
+     "start": 130.348,
+     "end": 130.689,
+     "conf": 0.8
+    },
+    {
+     "w": "like",
+     "start": 130.77,
+     "end": 130.991,
+     "conf": 0.73
+    },
+    {
+     "w": "a",
+     "start": 130.991,
+     "end": 131.081,
+     "conf": 0.18
+    },
+    {
+     "w": "crown",
+     "start": 131.473,
+     "end": 132.276,
+     "conf": 0.51
+    },
+    {
+     "w": "of",
+     "start": 132.457,
+     "end": 132.547,
+     "conf": 0.08
+    },
+    {
+     "w": "thorns",
+     "start": 132.577,
+     "end": 133.22,
+     "conf": 0.3
+    }
+   ],
+   "start": 128.46,
+   "end": 133.22
+  },
+  {
+   "text": "But the Word's my weapon, sharper than steel",
+   "words": [
+    {
+     "w": "But",
+     "start": 132.403,
+     "end": 132.544,
+     "conf": 0.77
+    },
+    {
+     "w": "the",
+     "start": 132.584,
+     "end": 132.674,
+     "conf": 0.04
+    },
+    {
+     "w": "Word's",
+     "start": 132.765,
+     "end": 133.106,
+     "conf": 0.71
+    },
+    {
+     "w": "my",
+     "start": 133.187,
+     "end": 133.367,
+     "conf": 0.45
+    },
+    {
+     "w": "weapon,",
+     "start": 133.508,
+     "end": 133.89,
+     "conf": 0.55
+    },
+    {
+     "w": "sharper",
+     "start": 134.352,
+     "end": 134.693,
+     "conf": 0.43
+    },
+    {
+     "w": "than",
+     "start": 134.713,
+     "end": 134.834,
+     "conf": 0.27
+    },
+    {
+     "w": "steel",
+     "start": 134.894,
+     "end": 135.336,
+     "conf": 0.65
+    }
+   ],
+   "start": 132.403,
+   "end": 135.336
+  },
+  {
+   "text": "Promises planted, forever real",
+   "words": [
+    {
+     "w": "Promises",
+     "start": 135.945,
+     "end": 136.527,
+     "conf": 0.8
+    },
+    {
+     "w": "planted,",
+     "start": 136.628,
+     "end": 137.11,
+     "conf": 0.5
+    },
+    {
+     "w": "forever",
+     "start": 137.612,
+     "end": 138.295,
+     "conf": 0.74
+    },
+    {
+     "w": "real",
+     "start": 139.078,
+     "end": 139.379,
+     "conf": 0.63
+    }
+   ],
+   "start": 135.945,
+   "end": 139.379
+  },
+  {
+   "text": "I wrestle the angels, demanding the signs",
+   "words": [
+    {
+     "w": "I",
+     "start": 138.342,
+     "end": 138.432,
+     "conf": 0.11
+    },
+    {
+     "w": "wrestle",
+     "start": 138.965,
+     "end": 139.387,
+     "conf": 0.64
+    },
+    {
+     "w": "the",
+     "start": 139.427,
+     "end": 139.517,
+     "conf": 0.81
+    },
+    {
+     "w": "angels,",
+     "start": 139.708,
+     "end": 140.13,
+     "conf": 0.92
+    },
+    {
+     "w": "demanding",
+     "start": 140.431,
+     "end": 140.994,
+     "conf": 0.65
+    },
+    {
+     "w": "the",
+     "start": 140.994,
+     "end": 141.084,
+     "conf": 0.77
+    },
+    {
+     "w": "signs",
+     "start": 141.194,
+     "end": 142.078,
+     "conf": 0.42
+    }
+   ],
+   "start": 138.342,
+   "end": 142.078
+  },
+  {
+   "text": "And peace floods my spirit, line after line",
+   "words": [
+    {
+     "w": "And",
+     "start": 141.302,
+     "end": 141.623,
+     "conf": 0.89
+    },
+    {
+     "w": "peace",
+     "start": 141.824,
+     "end": 142.105,
+     "conf": 0.33
+    },
+    {
+     "w": "floods",
+     "start": 142.165,
+     "end": 142.547,
+     "conf": 0.83
+    },
+    {
+     "w": "my",
+     "start": 142.627,
+     "end": 142.808,
+     "conf": 0.43
+    },
+    {
+     "w": "spirit,",
+     "start": 142.848,
+     "end": 143.37,
+     "conf": 0.87
+    },
+    {
+     "w": "line",
+     "start": 143.852,
+     "end": 144.214,
+     "conf": 0.4
+    },
+    {
+     "w": "after",
+     "start": 144.254,
+     "end": 144.475,
+     "conf": 0.45
+    },
+    {
+     "w": "line",
+     "start": 144.595,
+     "end": 145.218,
+     "conf": 0.63
+    }
+   ],
+   "start": 141.302,
+   "end": 145.218
+  },
+  {
+   "text": "This ain't blind hope, it's a fire that burns",
+   "words": [
+    {
+     "w": "This",
+     "start": 144.381,
+     "end": 145.125,
+     "conf": 0.55
+    },
+    {
+     "w": "ain't",
+     "start": 145.185,
+     "end": 145.326,
+     "conf": 0.21
+    },
+    {
+     "w": "blind",
+     "start": 145.366,
+     "end": 145.768,
+     "conf": 0.28
+    },
+    {
+     "w": "hope,",
+     "start": 145.808,
+     "end": 146.692,
+     "conf": 0.51
+    },
+    {
+     "w": "it's",
+     "start": 146.713,
+     "end": 146.813,
+     "conf": 0.48
+    },
+    {
+     "w": "a",
+     "start": 146.873,
+     "end": 146.963,
+     "conf": 0.14
+    },
+    {
+     "w": "fire",
+     "start": 146.994,
+     "end": 147.296,
+     "conf": 0.35
+    },
+    {
+     "w": "that",
+     "start": 147.336,
+     "end": 147.476,
+     "conf": 0.02
+    },
+    {
+     "w": "burns",
+     "start": 147.517,
+     "end": 147.939,
+     "conf": 0.46
+    }
+   ],
+   "start": 144.381,
+   "end": 147.939
+  },
+  {
+   "text": "Every lesson I stumble through, my spirit learns",
+   "words": [
+    {
+     "w": "Every",
+     "start": 147.383,
+     "end": 148.387,
+     "conf": 0.57
+    },
+    {
+     "w": "lesson",
+     "start": 148.487,
+     "end": 148.828,
+     "conf": 0.58
+    },
+    {
+     "w": "I",
+     "start": 148.848,
+     "end": 148.938,
+     "conf": 0.08
+    },
+    {
+     "w": "stumble",
+     "start": 149.029,
+     "end": 149.411,
+     "conf": 0.62
+    },
+    {
+     "w": "through,",
+     "start": 149.491,
+     "end": 149.752,
+     "conf": 0.06
+    },
+    {
+     "w": "my",
+     "start": 149.812,
+     "end": 149.902,
+     "conf": 0.49
+    },
+    {
+     "w": "spirit",
+     "start": 149.993,
+     "end": 150.515,
+     "conf": 0.75
+    },
+    {
+     "w": "learns",
+     "start": 150.615,
+     "end": 151.278,
+     "conf": 0.54
+    }
+   ],
+   "start": 147.383,
+   "end": 151.278
+  },
+  {
+   "text": "So I lift my hands, let the tears overflow",
+   "words": [
+    {
+     "w": "So",
+     "start": 151.244,
+     "end": 151.344,
+     "conf": 0.89
+    },
+    {
+     "w": "I",
+     "start": 151.465,
+     "end": 151.555,
+     "conf": 0.0
+    },
+    {
+     "w": "lift",
+     "start": 151.605,
+     "end": 151.766,
+     "conf": 0.48
+    },
+    {
+     "w": "my",
+     "start": 151.826,
+     "end": 151.987,
+     "conf": 0.75
+    },
+    {
+     "w": "hands,",
+     "start": 152.047,
+     "end": 152.449,
+     "conf": 0.55
+    },
+    {
+     "w": "let",
+     "start": 152.83,
+     "end": 152.971,
+     "conf": 0.98
+    },
+    {
+     "w": "the",
+     "start": 153.031,
+     "end": 153.121,
+     "conf": 0.05
+    },
+    {
+     "w": "tears",
+     "start": 153.192,
+     "end": 153.573,
+     "conf": 0.71
+    },
+    {
+     "w": "overflow",
+     "start": 153.674,
+     "end": 154.317,
+     "conf": 0.46
+    }
+   ],
+   "start": 151.244,
+   "end": 154.317
+  },
+  {
+   "text": "'Cause brokenness is where the miracles grow",
+   "words": [
+    {
+     "w": "'Cause",
+     "start": 154.303,
+     "end": 154.765,
+     "conf": 0.14
+    },
+    {
+     "w": "brokenness",
+     "start": 154.825,
+     "end": 155.388,
+     "conf": 0.85
+    },
+    {
+     "w": "is",
+     "start": 155.448,
+     "end": 155.548,
+     "conf": 0.69
+    },
+    {
+     "w": "where",
+     "start": 155.649,
+     "end": 155.95,
+     "conf": 0.48
+    },
+    {
+     "w": "the",
+     "start": 156.211,
+     "end": 156.301,
+     "conf": 0.9
+    },
+    {
+     "w": "miracles",
+     "start": 156.372,
+     "end": 156.914,
+     "conf": 0.81
+    },
+    {
+     "w": "grow",
+     "start": 156.994,
+     "end": 157.476,
+     "conf": 0.2
+    }
+   ],
+   "start": 154.303,
+   "end": 157.476
+  },
+  {
+   "text": "Yeah, I walk through the valley, shadows all around",
+   "words": [
+    {
+     "w": "Yeah,",
+     "start": 157.583,
+     "end": 157.844,
+     "conf": 0.35
+    },
+    {
+     "w": "I",
+     "start": 157.844,
+     "end": 157.934,
+     "conf": 0.02
+    },
+    {
+     "w": "walk",
+     "start": 157.985,
+     "end": 158.246,
+     "conf": 0.24
+    },
+    {
+     "w": "through",
+     "start": 158.346,
+     "end": 158.547,
+     "conf": 0.18
+    },
+    {
+     "w": "the",
+     "start": 158.567,
+     "end": 158.657,
+     "conf": 0.05
+    },
+    {
+     "w": "valley,",
+     "start": 158.728,
+     "end": 159.27,
+     "conf": 0.43
+    },
+    {
+     "w": "shadows",
+     "start": 159.531,
+     "end": 159.953,
+     "conf": 0.66
+    },
+    {
+     "w": "all",
+     "start": 160.034,
+     "end": 160.174,
+     "conf": 0.57
+    },
+    {
+     "w": "around",
+     "start": 160.234,
+     "end": 160.757,
+     "conf": 0.43
+    }
+   ],
+   "start": 157.583,
+   "end": 160.757
+  },
+  {
+   "text": "But my feet keep moving on holy ground",
+   "words": [
+    {
+     "w": "But",
+     "start": 160.161,
+     "end": 160.763,
+     "conf": 0.06
+    },
+    {
+     "w": "my",
+     "start": 160.904,
+     "end": 160.994,
+     "conf": 0.3
+    },
+    {
+     "w": "feet",
+     "start": 161.125,
+     "end": 161.366,
+     "conf": 0.16
+    },
+    {
+     "w": "keep",
+     "start": 161.506,
+     "end": 161.768,
+     "conf": 0.41
+    },
+    {
+     "w": "moving",
+     "start": 161.888,
+     "end": 162.35,
+     "conf": 0.27
+    },
+    {
+     "w": "on",
+     "start": 162.39,
+     "end": 162.551,
+     "conf": 0.56
+    },
+    {
+     "w": "holy",
+     "start": 162.691,
+     "end": 163.354,
+     "conf": 0.45
+    },
+    {
+     "w": "ground",
+     "start": 163.475,
+     "end": 163.896,
+     "conf": 0.45
+    }
+   ],
+   "start": 160.161,
+   "end": 163.896
+  },
+  {
+   "text": "When the lies scream loud, I won't back down",
+   "words": [
+    {
+     "w": "When",
+     "start": 163.742,
+     "end": 164.024,
+     "conf": 0.1
+    },
+    {
+     "w": "the",
+     "start": 164.064,
+     "end": 164.154,
+     "conf": 0.16
+    },
+    {
+     "w": "lies",
+     "start": 164.305,
+     "end": 164.546,
+     "conf": 0.16
+    },
+    {
+     "w": "scream",
+     "start": 164.606,
+     "end": 164.988,
+     "conf": 0.27
+    },
+    {
+     "w": "loud,",
+     "start": 165.108,
+     "end": 165.49,
+     "conf": 0.22
+    },
+    {
+     "w": "I",
+     "start": 165.57,
+     "end": 165.66,
+     "conf": 0.01
+    },
+    {
+     "w": "won't",
+     "start": 165.871,
+     "end": 166.172,
+     "conf": 0.28
+    },
+    {
+     "w": "back",
+     "start": 166.253,
+     "end": 167.257,
+     "conf": 0.38
+    },
+    {
+     "w": "down",
+     "start": 167.458,
+     "end": 168.0,
+     "conf": 0.21
+    }
+   ],
+   "start": 163.742,
+   "end": 168.0
+  },
+  {
+   "text": "'Cause doubt can't drown out this faith I found",
+   "words": [
+    {
+     "w": "'Cause",
+     "start": 166.42,
+     "end": 167.404,
+     "conf": 0.25
+    },
+    {
+     "w": "doubt",
+     "start": 167.444,
+     "end": 167.746,
+     "conf": 0.16
+    },
+    {
+     "w": "can't",
+     "start": 167.826,
+     "end": 168.168,
+     "conf": 0.24
+    },
+    {
+     "w": "drown",
+     "start": 168.228,
+     "end": 168.65,
+     "conf": 0.44
+    },
+    {
+     "w": "out",
+     "start": 168.69,
+     "end": 168.81,
+     "conf": 0.03
+    },
+    {
+     "w": "this",
+     "start": 168.83,
+     "end": 168.971,
+     "conf": 0.49
+    },
+    {
+     "w": "faith",
+     "start": 169.051,
+     "end": 169.393,
+     "conf": 0.37
+    },
+    {
+     "w": "I",
+     "start": 169.534,
+     "end": 169.624,
+     "conf": 0.01
+    },
+    {
+     "w": "found",
+     "start": 169.815,
+     "end": 170.478,
+     "conf": 0.29
+    }
+   ],
+   "start": 166.42,
+   "end": 170.478
+  },
+  {
+   "text": "From the ashes I rise, no more broken chains",
+   "words": [
+    {
+     "w": "From",
+     "start": 170.203,
+     "end": 170.384,
+     "conf": 0.38
+    },
+    {
+     "w": "the",
+     "start": 170.444,
+     "end": 170.534,
+     "conf": 0.11
+    },
+    {
+     "w": "ashes",
+     "start": 170.705,
+     "end": 171.187,
+     "conf": 0.26
+    },
+    {
+     "w": "I",
+     "start": 171.207,
+     "end": 171.297,
+     "conf": 0.01
+    },
+    {
+     "w": "rise,",
+     "start": 171.428,
+     "end": 171.991,
+     "conf": 0.16
+    },
+    {
+     "w": "no",
+     "start": 171.991,
+     "end": 172.081,
+     "conf": 0.5
+    },
+    {
+     "w": "more",
+     "start": 172.212,
+     "end": 172.473,
+     "conf": 0.35
+    },
+    {
+     "w": "broken",
+     "start": 172.553,
+     "end": 172.874,
+     "conf": 0.57
+    },
+    {
+     "w": "chains",
+     "start": 172.914,
+     "end": 173.376,
+     "conf": 0.46
+    }
+   ],
+   "start": 170.203,
+   "end": 173.376
+  },
+  {
+   "text": "Your love's the anchor in hurricane waves",
+   "words": [
+    {
+     "w": "Your",
+     "start": 173.765,
+     "end": 173.986,
+     "conf": 0.36
+    },
+    {
+     "w": "love's",
+     "start": 174.086,
+     "end": 174.387,
+     "conf": 0.26
+    },
+    {
+     "w": "the",
+     "start": 174.407,
+     "end": 174.497,
+     "conf": 0.13
+    },
+    {
+     "w": "anchor",
+     "start": 174.669,
+     "end": 174.97,
+     "conf": 0.25
+    },
+    {
+     "w": "in",
+     "start": 175.171,
+     "end": 175.271,
+     "conf": 0.77
+    },
+    {
+     "w": "hurricane",
+     "start": 175.371,
+     "end": 176.255,
+     "conf": 0.24
+    },
+    {
+     "w": "waves",
+     "start": 176.336,
+     "end": 176.958,
+     "conf": 0.26
+    }
+   ],
+   "start": 173.765,
+   "end": 176.958
+  },
+  {
+   "text": "Hallelujah, I'm standing my ground",
+   "words": [
+    {
+     "w": "Hallelujah,",
+     "start": 176.543,
+     "end": 177.909,
+     "conf": 0.19
+    },
+    {
+     "w": "I'm",
+     "start": 178.29,
+     "end": 178.38,
+     "conf": 0.13
+    },
+    {
+     "w": "standing",
+     "start": 178.431,
+     "end": 178.973,
+     "conf": 0.35
+    },
+    {
+     "w": "my",
+     "start": 179.033,
+     "end": 179.123,
+     "conf": 0.37
+    },
+    {
+     "w": "ground",
+     "start": 179.234,
+     "end": 180.62,
+     "conf": 0.08
+    }
+   ],
+   "start": 176.543,
+   "end": 180.62
+  },
+  {
+   "text": "Faith amid doubt, where the victory's crowned",
+   "words": [
+    {
+     "w": "Faith",
+     "start": 180.024,
+     "end": 180.386,
+     "conf": 0.24
+    },
+    {
+     "w": "amid",
+     "start": 180.446,
+     "end": 180.788,
+     "conf": 0.33
+    },
+    {
+     "w": "doubt,",
+     "start": 180.868,
+     "end": 181.21,
+     "conf": 0.1
+    },
+    {
+     "w": "where",
+     "start": 181.451,
+     "end": 181.551,
+     "conf": 0.26
+    },
+    {
+     "w": "the",
+     "start": 181.551,
+     "end": 181.641,
+     "conf": 0.02
+    },
+    {
+     "w": "victory's",
+     "start": 181.692,
+     "end": 182.375,
+     "conf": 0.56
+    },
+    {
+     "w": "crowned",
+     "start": 182.415,
+     "end": 182.797,
+     "conf": 0.15
+    }
+   ],
+   "start": 180.024,
+   "end": 182.797
+  },
+  {
+   "text": "I've been the prodigal, running far and wide",
+   "words": [
+    {
+     "w": "I've",
+     "start": 183.403,
+     "end": 183.624,
+     "conf": 0.0
+    },
+    {
+     "w": "been",
+     "start": 183.644,
+     "end": 183.785,
+     "conf": 0.62
+    },
+    {
+     "w": "the",
+     "start": 183.825,
+     "end": 183.915,
+     "conf": 0.08
+    },
+    {
+     "w": "prodigal,",
+     "start": 183.986,
+     "end": 184.548,
+     "conf": 0.46
+    },
+    {
+     "w": "running",
+     "start": 184.85,
+     "end": 185.131,
+     "conf": 0.3
+    },
+    {
+     "w": "far",
+     "start": 185.191,
+     "end": 185.453,
+     "conf": 0.35
+    },
+    {
+     "w": "and",
+     "start": 185.453,
+     "end": 185.553,
+     "conf": 0.34
+    },
+    {
+     "w": "wide",
+     "start": 185.613,
+     "end": 186.899,
+     "conf": 0.52
+    }
+   ],
+   "start": 183.403,
+   "end": 186.899
+  },
+  {
+   "text": "But mercy met me where the shame would hide",
+   "words": [
+    {
+     "w": "But",
+     "start": 186.645,
+     "end": 186.765,
+     "conf": 0.25
+    },
+    {
+     "w": "mercy",
+     "start": 186.806,
+     "end": 187.127,
+     "conf": 0.58
+    },
+    {
+     "w": "met",
+     "start": 187.207,
+     "end": 187.388,
+     "conf": 0.56
+    },
+    {
+     "w": "me",
+     "start": 187.428,
+     "end": 187.518,
+     "conf": 0.48
+    },
+    {
+     "w": "where",
+     "start": 188.011,
+     "end": 188.131,
+     "conf": 0.33
+    },
+    {
+     "w": "the",
+     "start": 188.151,
+     "end": 188.241,
+     "conf": 0.03
+    },
+    {
+     "w": "shame",
+     "start": 188.332,
+     "end": 188.654,
+     "conf": 0.4
+    },
+    {
+     "w": "would",
+     "start": 188.654,
+     "end": 188.774,
+     "conf": 0.49
+    },
+    {
+     "w": "hide",
+     "start": 188.834,
+     "end": 190.02,
+     "conf": 0.29
+    }
+   ],
+   "start": 186.645,
+   "end": 190.02
+  },
+  {
+   "text": "This ain't religion, it's redemption's breath",
+   "words": [
+    {
+     "w": "This",
+     "start": 188.741,
+     "end": 189.947,
+     "conf": 0.47
+    },
+    {
+     "w": "ain't",
+     "start": 190.007,
+     "end": 190.147,
+     "conf": 0.74
+    },
+    {
+     "w": "religion,",
+     "start": 190.188,
+     "end": 190.75,
+     "conf": 0.91
+    },
+    {
+     "w": "it's",
+     "start": 190.77,
+     "end": 190.871,
+     "conf": 0.28
+    },
+    {
+     "w": "redemption's",
+     "start": 190.951,
+     "end": 191.654,
+     "conf": 0.78
+    },
+    {
+     "w": "breath",
+     "start": 191.755,
+     "end": 192.056,
+     "conf": 0.83
+    }
+   ],
+   "start": 188.741,
+   "end": 192.056
+  },
+  {
+   "text": "Life after death, conquering every test",
+   "words": [
+    {
+     "w": "Life",
+     "start": 192.425,
+     "end": 192.686,
+     "conf": 0.84
+    },
+    {
+     "w": "after",
+     "start": 192.766,
+     "end": 193.007,
+     "conf": 0.6
+    },
+    {
+     "w": "death,",
+     "start": 193.128,
+     "end": 193.369,
+     "conf": 0.78
+    },
+    {
+     "w": "conquering",
+     "start": 193.469,
+     "end": 194.192,
+     "conf": 0.56
+    },
+    {
+     "w": "every",
+     "start": 194.353,
+     "end": 194.674,
+     "conf": 0.72
+    },
+    {
+     "w": "test",
+     "start": 194.855,
+     "end": 195.879,
+     "conf": 0.93
+    }
+   ],
+   "start": 192.425,
+   "end": 195.879
+  },
+  {
+   "text": "So let the storms rage, let the mountains shake",
+   "words": [
+    {
+     "w": "So",
+     "start": 195.223,
+     "end": 195.324,
+     "conf": 0.91
+    },
+    {
+     "w": "let",
+     "start": 195.444,
+     "end": 195.585,
+     "conf": 0.97
+    },
+    {
+     "w": "the",
+     "start": 195.625,
+     "end": 195.715,
+     "conf": 0.0
+    },
+    {
+     "w": "storms",
+     "start": 195.766,
+     "end": 196.228,
+     "conf": 0.92
+    },
+    {
+     "w": "rage,",
+     "start": 196.328,
+     "end": 196.73,
+     "conf": 0.66
+    },
+    {
+     "w": "let",
+     "start": 197.091,
+     "end": 197.232,
+     "conf": 0.89
+    },
+    {
+     "w": "the",
+     "start": 197.272,
+     "end": 197.362,
+     "conf": 0.01
+    },
+    {
+     "w": "mountains",
+     "start": 197.433,
+     "end": 197.754,
+     "conf": 0.42
+    },
+    {
+     "w": "shake",
+     "start": 197.835,
+     "end": 199.12,
+     "conf": 0.56
+    }
+   ],
+   "start": 195.223,
+   "end": 199.12
+  },
+  {
+   "text": "My foundation's solid, make no mistake",
+   "words": [
+    {
+     "w": "My",
+     "start": 198.645,
+     "end": 198.765,
+     "conf": 0.52
+    },
+    {
+     "w": "foundation's",
+     "start": 198.806,
+     "end": 199.428,
+     "conf": 0.31
+    },
+    {
+     "w": "solid,",
+     "start": 199.488,
+     "end": 199.89,
+     "conf": 0.56
+    },
+    {
+     "w": "make",
+     "start": 200.292,
+     "end": 200.533,
+     "conf": 0.55
+    },
+    {
+     "w": "no",
+     "start": 200.593,
+     "end": 200.683,
+     "conf": 0.96
+    },
+    {
+     "w": "mistake",
+     "start": 200.774,
+     "end": 201.356,
+     "conf": 0.65
+    }
+   ],
+   "start": 198.645,
+   "end": 201.356
+  },
+  {
+   "text": "I'm dancing in the downpour, singing in the fight",
+   "words": [
+    {
+     "w": "I'm",
+     "start": 200.821,
+     "end": 202.126,
+     "conf": 0.34
+    },
+    {
+     "w": "dancing",
+     "start": 202.206,
+     "end": 202.648,
+     "conf": 0.49
+    },
+    {
+     "w": "in",
+     "start": 202.688,
+     "end": 202.768,
+     "conf": 0.45
+    },
+    {
+     "w": "the",
+     "start": 202.768,
+     "end": 202.858,
+     "conf": 0.06
+    },
+    {
+     "w": "downpour,",
+     "start": 202.989,
+     "end": 203.612,
+     "conf": 0.47
+    },
+    {
+     "w": "singing",
+     "start": 203.752,
+     "end": 204.154,
+     "conf": 0.68
+    },
+    {
+     "w": "in",
+     "start": 204.194,
+     "end": 204.294,
+     "conf": 0.59
+    },
+    {
+     "w": "the",
+     "start": 204.294,
+     "end": 204.395,
+     "conf": 0.03
+    },
+    {
+     "w": "fight",
+     "start": 204.535,
+     "end": 204.856,
+     "conf": 0.59
+    }
+   ],
+   "start": 200.821,
+   "end": 204.856
+  },
+  {
+   "text": "'Cause doubt dies when I walk in Your light",
+   "words": [
+    {
+     "w": "'Cause",
+     "start": 204.26,
+     "end": 205.305,
+     "conf": 0.25
+    },
+    {
+     "w": "doubt",
+     "start": 205.385,
+     "end": 205.646,
+     "conf": 0.43
+    },
+    {
+     "w": "dies",
+     "start": 205.747,
+     "end": 206.148,
+     "conf": 0.5
+    },
+    {
+     "w": "when",
+     "start": 206.53,
+     "end": 206.69,
+     "conf": 0.74
+    },
+    {
+     "w": "I",
+     "start": 206.811,
+     "end": 206.901,
+     "conf": 0.97
+    },
+    {
+     "w": "walk",
+     "start": 206.911,
+     "end": 207.253,
+     "conf": 0.86
+    },
+    {
+     "w": "in",
+     "start": 207.333,
+     "end": 207.434,
+     "conf": 0.94
+    },
+    {
+     "w": "Your",
+     "start": 207.494,
+     "end": 207.634,
+     "conf": 0.46
+    },
+    {
+     "w": "light",
+     "start": 207.715,
+     "end": 208.518,
+     "conf": 0.21
+    }
+   ],
+   "start": 204.26,
+   "end": 208.518
+  },
+  {
+   "text": "I'm still here",
+   "words": [
+    {
+     "w": "I'm",
+     "start": 209.363,
+     "end": 210.068,
+     "conf": 0.03
+    },
+    {
+     "w": "still",
+     "start": 210.451,
+     "end": 210.895,
+     "conf": 0.03
+    },
+    {
+     "w": "here",
+     "start": 210.895,
+     "end": 211.379,
+     "conf": 0.09
+    }
+   ],
+   "start": 209.363,
+   "end": 211.379
+  },
+  {
+   "text": "I'm still here",
+   "words": [
+    {
+     "w": "I'm",
+     "start": 214.291,
+     "end": 214.381,
+     "conf": 0.16
+    },
+    {
+     "w": "still",
+     "start": 214.452,
+     "end": 214.796,
+     "conf": 0.61
+    },
+    {
+     "w": "here",
+     "start": 214.877,
+     "end": 215.159,
+     "conf": 0.51
+    }
+   ],
+   "start": 214.291,
+   "end": 215.159
+  },
+  {
+   "text": "I'm still here",
+   "words": [
+    {
+     "w": "I'm",
+     "start": 216.468,
+     "end": 216.65,
+     "conf": 0.01
+    },
+    {
+     "w": "still",
+     "start": 216.71,
+     "end": 217.237,
+     "conf": 0.15
+    },
+    {
+     "w": "here",
+     "start": 217.237,
+     "end": 217.48,
+     "conf": 0.13
+    }
+   ],
+   "start": 216.468,
+   "end": 217.48
+  },
+  {
+   "text": "'Cause You carry me",
+   "words": [
+    {
+     "w": "'Cause",
+     "start": 218.021,
+     "end": 219.332,
+     "conf": 0.07
+    },
+    {
+     "w": "You",
+     "start": 219.352,
+     "end": 219.442,
+     "conf": 0.1
+    },
+    {
+     "w": "carry",
+     "start": 219.493,
+     "end": 219.856,
+     "conf": 0.27
+    },
+    {
+     "w": "me",
+     "start": 219.896,
+     "end": 220.058,
+     "conf": 0.08
+    }
+   ],
+   "start": 218.021,
+   "end": 220.058
+  },
+  {
+   "text": "I'm still here",
+   "words": [
+    {
+     "w": "I'm",
+     "start": 220.427,
+     "end": 220.69,
+     "conf": 0.08
+    },
+    {
+     "w": "still",
+     "start": 220.75,
+     "end": 221.175,
+     "conf": 0.2
+    },
+    {
+     "w": "here",
+     "start": 221.195,
+     "end": 221.559,
+     "conf": 0.34
+    }
+   ],
+   "start": 220.427,
+   "end": 221.559
+  },
+  {
+   "text": "Grace over fear",
+   "words": [
+    {
+     "w": "Grace",
+     "start": 222.688,
+     "end": 223.152,
+     "conf": 0.07
+    },
+    {
+     "w": "over",
+     "start": 223.193,
+     "end": 223.476,
+     "conf": 0.06
+    },
+    {
+     "w": "fear",
+     "start": 223.516,
+     "end": 223.799,
+     "conf": 0.05
+    }
+   ],
+   "start": 222.688,
+   "end": 223.799
+  },
+  {
+   "text": "Grace over gravity",
+   "words": [
+    {
+     "w": "Grace",
+     "start": 225.068,
+     "end": 225.472,
+     "conf": 0.15
+    },
+    {
+     "w": "over",
+     "start": 225.533,
+     "end": 225.795,
+     "conf": 0.18
+    },
+    {
+     "w": "gravity",
+     "start": 225.835,
+     "end": 226.239,
+     "conf": 0.19
+    }
+   ],
+   "start": 225.068,
+   "end": 226.239
+  },
+  {
+   "text": "I'm still here",
+   "words": [
+    {
+     "w": "I'm",
+     "start": 226.929,
+     "end": 227.03,
+     "conf": 0.13
+    },
+    {
+     "w": "still",
+     "start": 227.09,
+     "end": 227.434,
+     "conf": 0.85
+    },
+    {
+     "w": "here",
+     "start": 227.535,
+     "end": 227.818,
+     "conf": 0.46
+    }
+   ],
+   "start": 226.929,
+   "end": 227.818
+  },
+  {
+   "text": "I'm still here",
+   "words": [
+    {
+     "w": "I'm",
+     "start": 228.784,
+     "end": 229.29,
+     "conf": 0.02
+    },
+    {
+     "w": "still",
+     "start": 229.411,
+     "end": 229.694,
+     "conf": 0.09
+    },
+    {
+     "w": "here",
+     "start": 229.816,
+     "end": 230.099,
+     "conf": 0.07
+    }
+   ],
+   "start": 228.784,
+   "end": 230.099
+  },
+  {
+   "text": "'Cause You carry me through",
+   "words": [
+    {
+     "w": "'Cause",
+     "start": 230.92,
+     "end": 231.967,
+     "conf": 0.2
+    },
+    {
+     "w": "You",
+     "start": 231.988,
+     "end": 232.088,
+     "conf": 0.9
+    },
+    {
+     "w": "carry",
+     "start": 232.129,
+     "end": 232.491,
+     "conf": 0.67
+    },
+    {
+     "w": "me",
+     "start": 232.572,
+     "end": 232.693,
+     "conf": 0.56
+    },
+    {
+     "w": "through",
+     "start": 232.955,
+     "end": 233.639,
+     "conf": 0.16
+    }
+   ],
+   "start": 230.92,
+   "end": 233.639
+  }
+ ],
+ "notes": "Lyrics transcribed from the audio (Whisper medium.en / large-v3 on the Demucs vocal stem), corrected by hand, word times by MMS forced alignment. Not the author's sheet. The three opening lines are timed by hand from the vocal envelope."
+}

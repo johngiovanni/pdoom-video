@@ -31,6 +31,8 @@ const SAMPLES = opt('samples', '1') === 'auto'
   : +opt('samples', '1')!;
 const hist = (h: Record<string, number>) => Object.entries(h).sort((a, b) => +a[0] - +b[0]).map(([k, v]) => `${k}:${v}`).join(' ');
 const ROOT = path.resolve(APP, '..');
+// --song <name>: another song's data, audio and edit (see src/song.ts); default pdoom
+const SONG = opt('song', 'pdoom')!;
 
 async function reachable(url: string) {
   try { const r = await fetch(url, { signal: AbortSignal.timeout(1500) }); return r.ok; } catch { return false; }
@@ -58,7 +60,7 @@ async function openPage(url: string) {
   page.on('console', (m) => { if (m.type() === 'error' || m.type() === 'warning') logs.push(`[${m.type()}] ${m.text()}`); });
   page.on('pageerror', (e) => logs.push(`[pageerror] ${e.message}`));
   const only = opt('only');
-  await page.goto(`${url}/?export=1${only ? `&only=${only}` : ''}${SCALE !== 1 ? `&scale=${SCALE}` : ''}`);
+  await page.goto(`${url}/?export=1${SONG !== 'pdoom' ? `&song=${SONG}` : ''}${only ? `&only=${only}` : ''}${SCALE !== 1 ? `&scale=${SCALE}` : ''}`);
   await page.waitForFunction(() => (window as any).__pdoom?.ready || (window as any).__pdoom?.error, null, { timeout: 120000 });
   const err = await page.evaluate(() => (window as any).__pdoom.error);
   if (err) throw new Error(`app failed to boot:\n${err}\n${logs.join('\n')}`);
@@ -117,7 +119,7 @@ async function sheet(page: Page, times: number[], cols: number, out: string) {
 async function video(url: string, from: number, to: number, fps: number, out: string) {
   mkdirSync(path.dirname(out), { recursive: true });
   const crf = opt('crf', '16')!;
-  const audio = path.join(ROOT, 'audio/pdoom.mp3');
+  const audio = path.join(ROOT, `audio/${SONG}.mp3`);
   // (frames come as rgb24: the same YUV out of the scaler as from rgba, a quarter fewer bytes to move)
   const args = ['ffmpeg', '-y', '-loglevel', 'error', '-f', 'rawvideo', '-pix_fmt', 'rgb24', '-s', `${OW}x${OH}`, '-r', String(fps), '-i', 'pipe:0'];
   if (!flag('noaudio')) args.push('-ss', String(from), '-t', String(to - from), '-i', audio);
@@ -281,7 +283,7 @@ if (mode === 'video') {
     const { browser, page } = await openPage(url);
     const dur: number = await page.evaluate(() => (window as any).__pdoom.duration);
     await browser.close();
-    await video(url, +opt('from', '0')!, +opt('to', String(dur))!, +opt('fps', '60')!, path.resolve(opt('out', path.join(ROOT, 'out/pdoom.mp4'))!));
+    await video(url, +opt('from', '0')!, +opt('to', String(dur))!, +opt('fps', '60')!, path.resolve(opt('out', path.join(ROOT, `out/${SONG}.mp4`))!));
   } finally { stop(); }
   process.exit(0);
 }

@@ -49,9 +49,9 @@ async function ensureServer(): Promise<{ url: string; stop: () => void }> {
 
 async function openPage(url: string) {
   const browser = await chromium.launch({
-    channel: 'chrome',
+    ...(process.env.PDOOM_CHROME ? { executablePath: process.env.PDOOM_CHROME } : { channel: 'chrome' }),
     headless: !flag('headed'),
-    args: ['--use-angle=metal', '--enable-gpu-rasterization', '--ignore-gpu-blocklist', '--disable-background-timer-throttling', '--disable-renderer-backgrounding', '--disable-backgrounding-occluded-windows'],
+    args: [`--use-angle=${process.env.PDOOM_ANGLE ?? 'metal'}`, '--enable-gpu-rasterization', '--ignore-gpu-blocklist', '--disable-background-timer-throttling', '--disable-renderer-backgrounding', '--disable-backgrounding-occluded-windows'],
   });
   const page = await browser.newPage({ viewport: { width: 1920, height: 1080 }, deviceScaleFactor: 1 });
   const logs: string[] = [];
